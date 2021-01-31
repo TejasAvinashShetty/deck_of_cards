@@ -8,6 +8,6 @@ modules = ["card.py"]
 
 doc_url = "https://TejasAvinashShetty.github.io/deck_of_cards/"
 
-git_url = "https://github.com/TejasAvinashShetty/deck_of_cards/tree/Master/"
+git_url = "https://github.com/TejasAvinashShetty/deck_of_cards/blob/Master/"
 
 def custom_doc_links(name): return None
