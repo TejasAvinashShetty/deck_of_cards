@@ -2,7 +2,7 @@ topnav:
 - title: Topnav
   items:
     - title: github
-      external_url: https://github.com/TejasAvinashShetty/deck_of_cards/tree/Master/
+      external_url: https://github.com/TejasAvinashShetty/deck_of_cards/blob/Master/
 
 #Topnav dropdowns
 topnav_dropdowns:
